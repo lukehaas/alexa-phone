@@ -1,0 +1,23 @@
+{
+  "name": "alexa-phone",
+  "version": "1.0.0",
+  "description": "An Alexa powered rotary phone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukehaas/alexa-phone.git"
+  },
+  "author": "Luke Haas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukehaas/alexa-phone/issues"
+  },
+  "homepage": "https://github.com/lukehaas/alexa-phone#readme",
+  "dependencies": {
+    "log4js": "^6.3.0",
+    "pigpio": "^3.2.3"
+  }
+}
