@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/lukehaas/alexa-phone#readme",
   "dependencies": {
-    "log4js": "^6.3.0",
+    "log4js": "^6.4.0",
     "pigpio": "^3.2.3"
   }
 }
